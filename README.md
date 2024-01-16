@@ -23,5 +23,5 @@ The project employed Logistic Regression, Random Forest, SVM, and XGBoost. Each 
 ## Results
 Assessing the models under different data conditions (original, oversampled, and undersampled) allowed for a nuanced understanding of each model's capabilities in varied scenarios.
 
-## Conclusions
+## Conclusion
 The XGBoost model, particularly on the undersampled dataset, achieved the highest sensitivity, a critical metric for the insurance domain.
